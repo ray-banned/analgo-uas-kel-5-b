@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    { "id": 0, "name": "Hub - Gudang Pusat" },
+    { "id": 1, "name": "Pelanggan 1" },
+    { "id": 2, "name": "Pelanggan 2" },
+    { "id": 3, "name": "Pelanggan 3" },
+    { "id": 4, "name": "Pelanggan 4" },
+    { "id": 5, "name": "Pelanggan 5" },
+    { "id": 6, "name": "Pelanggan 6" },
+    { "id": 7, "name": "Pelanggan 7" },
+    { "id": 8, "name": "Pelanggan 8" },
+    { "id": 9, "name": "Pelanggan 9" },
+    { "id": 10, "name": "Pelanggan 10" }
+  ]
+}

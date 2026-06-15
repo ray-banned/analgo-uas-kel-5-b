@@ -1,0 +1,15 @@
+{
+  "packages": [
+    { "node_id": 1, "weight_kg": 3.0 },
+    { "node_id": 2, "weight_kg": 1.0 },
+    { "node_id": 3, "weight_kg": 2.0 },
+    { "node_id": 4, "weight_kg": 6.0 },
+    { "node_id": 5, "weight_kg": 1.0 },
+    { "node_id": 6, "weight_kg": 1.5 },
+    { "node_id": 7, "weight_kg": 4.0 },
+    { "node_id": 8, "weight_kg": 3.0 },
+    { "node_id": 9, "weight_kg": 0.5 },
+    { "node_id": 10, "weight_kg": 8.0 }
+  ],
+  "motor_capacity_kg": 30.0
+}
