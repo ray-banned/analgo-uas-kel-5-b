@@ -1,0 +1,12 @@
+{
+  "subsidi": {
+    "label": "Skenario Subsidi",
+    "fuel_price_per_liter": 5000,
+    "server_cost_per_ms": 50
+  },
+  "krisis": {
+    "label": "Skenario Krisis",
+    "furl_price_per_liter": 20000,
+    "server_soct_per_ms": 50
+  }
+}
